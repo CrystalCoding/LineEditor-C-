@@ -1,5 +1,3 @@
-Name: Shubham Singh
-Student ID: 40004796
 
 
 Build Instructions:
