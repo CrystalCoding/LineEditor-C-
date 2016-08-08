@@ -1,0 +1,33 @@
+﻿Build started 7/1/2016 11:48:43 PM.
+     1>Project "g:\my documents\visual studio 2013\Projects\LineEditorAssignment\LineEditorAssignment\LineEditorAssignment.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt CommandImplementation.cpp LineEditor.cpp Main.cpp
+         Main.cpp
+     1>g:\my documents\visual studio 2013\projects\lineeditorassignment\lineeditorassignment\lineeditor.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+         LineEditor.cpp
+     1>g:\my documents\visual studio 2013\projects\lineeditorassignment\lineeditorassignment\lineeditor.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+         CommandImplementation.cpp
+     1>g:\my documents\visual studio 2013\projects\lineeditorassignment\lineeditorassignment\commandimplementation.cpp(29): warning C4018: '>' : signed/unsigned mismatch
+     1>g:\my documents\visual studio 2013\projects\lineeditorassignment\lineeditorassignment\commandimplementation.cpp(71): warning C4018: '>' : signed/unsigned mismatch
+     1>g:\my documents\visual studio 2013\projects\lineeditorassignment\lineeditorassignment\commandimplementation.cpp(119): warning C4018: '>' : signed/unsigned mismatch
+     1>g:\my documents\visual studio 2013\projects\lineeditorassignment\lineeditorassignment\commandimplementation.cpp(125): warning C4018: '>' : signed/unsigned mismatch
+     1>g:\my documents\visual studio 2013\projects\lineeditorassignment\lineeditorassignment\commandimplementation.cpp(183): warning C4018: '>' : signed/unsigned mismatch
+     1>g:\my documents\visual studio 2013\projects\lineeditorassignment\lineeditorassignment\commandimplementation.cpp(189): warning C4018: '>' : signed/unsigned mismatch
+     1>g:\my documents\visual studio 2013\projects\lineeditorassignment\lineeditorassignment\commandimplementation.cpp(242): warning C4018: '>' : signed/unsigned mismatch
+     1>g:\my documents\visual studio 2013\projects\lineeditorassignment\lineeditorassignment\commandimplementation.cpp(248): warning C4018: '>' : signed/unsigned mismatch
+     1>g:\my documents\visual studio 2013\projects\lineeditorassignment\lineeditorassignment\commandimplementation.cpp(304): warning C4018: '>' : signed/unsigned mismatch
+     1>g:\my documents\visual studio 2013\projects\lineeditorassignment\lineeditorassignment\commandimplementation.cpp(310): warning C4018: '>' : signed/unsigned mismatch
+     1>g:\my documents\visual studio 2013\projects\lineeditorassignment\lineeditorassignment\commandimplementation.cpp(375): warning C4018: '>' : signed/unsigned mismatch
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"g:\my documents\visual studio 2013\Projects\LineEditorAssignment\Debug\LineEditorAssignment.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"g:\my documents\visual studio 2013\Projects\LineEditorAssignment\Debug\LineEditorAssignment.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"g:\my documents\visual studio 2013\Projects\LineEditorAssignment\Debug\LineEditorAssignment.lib" /MACHINE:X86 Debug\Buffer.obj
+         Debug\CommandImplementation.obj
+         Debug\CommandParser.obj
+         Debug\LineEditor.obj
+         Debug\Main.obj
+         LineEditorAssignment.vcxproj -> g:\my documents\visual studio 2013\Projects\LineEditorAssignment\Debug\LineEditorAssignment.exe
+     1>Done Building Project "g:\my documents\visual studio 2013\Projects\LineEditorAssignment\LineEditorAssignment\LineEditorAssignment.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.55
